@@ -1,0 +1,4 @@
+// If user adds a note, add it to the localStorage
+// Function to show elements from localStorage
+// Function to delete a note
+//searh on page
