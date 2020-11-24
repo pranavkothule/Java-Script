@@ -12,12 +12,12 @@ let nodetype = cont.childNodes[1].nodeType;
 
 let container= document.querySelector(".container");
 // console.log(container.children[1].children[0]);
-
 // console.log(container.firstChild);
 // console.log(container.lastChild);
 // console.log(container.firstElementChild);
 // console.log(container.lastElementChild);
 // console.log(container.childElementCount);
+
 console.log(container.firstElementChild.parentNode);
 console.log(container.firstElementChild.parentElement);
 console.log(container.lastElementChild.parentNode);
