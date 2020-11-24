@@ -1,0 +1,32 @@
+//library 
+
+/********USING ES6 CLASSES OF JS***********/
+/********indexES6.js**********/
+//constructor
+//Display constructo
+    //implement add function
+    //implement clear function
+    //implement validate function
+    //implement show function
+//add submit event listner to library form
+/**************/
+//store all data in local storage
+//delete data 
+//add scrollbar to the view
+
+/******************************************/
+
+/********USING ES6 CLASSES OF JS***********/
+/********index.js**********/
+//constructor
+//Display constructor
+//Add methods to display prototype
+  //implement add function
+  //implement clear function
+  //implement validate function
+  //implement show function
+//add submit event listner to library form
+/**************/
+//store all data in local storage
+//delete data 
+//add scrollbar to the view
